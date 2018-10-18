@@ -1,0 +1,61 @@
+
+.image-entete{
+		border-color:black ;
+		border: 2px solid ;
+		width: 100%;
+		height:30em;
+		background-color: rgba(0, 174, 255, 0.452);
+		padding: 10%;		
+ 		
+}
+.logo{/*log de site web*/
+	width: 20em;
+	padding: 10% ;
+	background-color: rgba(128, 255, 0, 0.61);
+	
+	}
+	h1:first-child{
+		border-width: 20%;
+		border-style:double;
+		font-size: 9em;
+		font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+		padding: 10%;
+		color: rgb(243, 206, 192);
+		background-color: rgba(0, 0, 255, 0.349);
+		
+		height: 50%;
+		width: 20%;	
+		
+	}
+#first-div{ /*grand  de la page web */
+		padding: 100%;
+		display: inline-block;
+		background-color: coral;
+		width: 10%;
+		
+}
+
+
+#g1{
+	display: inline;
+
+	border: 10%;
+	padding: 50%
+}
+p {
+	background-color: pink;
+	font-family: Times New Roman, Elephant;
+	color:bleu;
+}
+p {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 0;
+    margin-right: 0;
+}
+#menu{
+	background-color: rgba(199, 90, 90, 0.829);
+	width: 50%;
+
+}
